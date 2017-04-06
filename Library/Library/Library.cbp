@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Library" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Library" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="src" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add directory="include" />
+					<Add directory="src" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Library" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="data.xml" />
+		<Unit filename="include/TAddress.h" />
+		<Unit filename="include/TAudiobook.h" />
+		<Unit filename="include/TBook.h" />
+		<Unit filename="include/TCD.h" />
+		<Unit filename="include/TComic.h" />
+		<Unit filename="include/TCustomer.h" />
+		<Unit filename="include/TDVD.h" />
+		<Unit filename="include/TDate.h" />
+		<Unit filename="include/TEmployee.h" />
+		<Unit filename="include/TLibrary.h" />
+		<Unit filename="include/TLibraryPool.h" />
+		<Unit filename="include/TLoan.h" />
+		<Unit filename="include/TLocation.h" />
+		<Unit filename="include/TMedium.h" />
+		<Unit filename="include/TPerson.h" />
+		<Unit filename="include/TTime.h" />
+		<Unit filename="include/TTools.h" />
+		<Unit filename="include/tlist.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/TAddress.cpp" />
+		<Unit filename="src/TAudiobook.cpp" />
+		<Unit filename="src/TBook.cpp" />
+		<Unit filename="src/TCD.cpp" />
+		<Unit filename="src/TComic.cpp" />
+		<Unit filename="src/TCustomer.cpp" />
+		<Unit filename="src/TDVD.cpp" />
+		<Unit filename="src/TDate.cpp" />
+		<Unit filename="src/TEmployee.cpp" />
+		<Unit filename="src/TLibrary.cpp" />
+		<Unit filename="src/TLibraryPool.cpp" />
+		<Unit filename="src/TLoan.cpp" />
+		<Unit filename="src/TLocation.cpp" />
+		<Unit filename="src/TMedium.cpp" />
+		<Unit filename="src/TPerson.cpp" />
+		<Unit filename="src/TTime.cpp" />
+		<Unit filename="src/tlist.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

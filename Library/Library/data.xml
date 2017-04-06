@@ -1,0 +1,183 @@
+<LibraryPool>
+<Name>Buechereiverbund Berlin</Name>
+<Employee>
+<Name>Egon Mustermann</Name>
+<EmployeeNr>P007</EmployeeNr>
+<Birthday>
+<Date>
+<Day>17</Day>
+<Month>11</Month>
+<Year>1963</Year>
+</Date>
+</Birthday>
+<CustomerNr>M007</CustomerNr>
+<Address>
+<Street>Schlossstr.</Street>
+<HouseNr>117</HouseNr>
+<Zipcode>12077</Zipcode>
+<City>Berlin</City>
+</Address>
+</Employee>
+<Library>
+<Name>Wedding</Name>
+<Address>
+<Street>Buchallee</Street>
+<HouseNr>15a</HouseNr>
+<Zipcode>13315</Zipcode>
+<City>Berlin</City>
+</Address>
+<Book>
+<Author>Gerald Kempfer</Author>
+<Pages>132</Pages>
+<Title>Programmieren in C</Title>
+<Signatur>PC99</Signatur>
+<Location>
+<Section>Technik</Section>
+<Rack>Computer</Rack>
+</Location>
+<FSK>0</FSK>
+</Book>
+<Book>
+<Author>Edgar Wallace</Author>
+<Pages>248</Pages>
+<Title>Der Hexer</Title>
+<Signatur>He83</Signatur>
+<Location>
+<Section>Romane</Section>
+<Rack>Krimi</Rack>
+</Location>
+<FSK>12</FSK>
+</Book>
+</Library>
+<Library>
+<Name>Steglitz</Name>
+<Address>
+<Street>Schlossstr.</Street>
+<HouseNr>117</HouseNr>
+<Zipcode>12077</Zipcode>
+<City>Berlin</City>
+</Address>
+<Comic>
+<Designer>Albert Uderzo</Designer>
+<Author>Rene Goscinny und Albert Uderzo</Author>
+<Pages>60</Pages>
+<Title>Asterix und Obelix</Title>
+<Signatur>KC17</Signatur>
+<Location>
+<Section>Kinder</Section>
+<Rack>Comics</Rack>
+</Location>
+<FSK>0</FSK>
+</Comic>
+<DVD>
+<Actors>Klaus Kinski, Eddi Arend</Actors>
+<PlayingTime>
+<Time>
+<Hour>1</Hour>
+<Minute>35</Minute>
+</Time>
+</PlayingTime>
+<Title>Der Werwolf</Title>
+<Signatur>WW175</Signatur>
+<Location>
+<Section>DVDs</Section>
+<Rack>Horror</Rack>
+</Location>
+<FSK>16</FSK>
+</DVD>
+<CD>
+<Title>Bravo Hits 2015</Title>
+<Signatur>BH2015_27</Signatur>
+<Location>
+<Section>CDs</Section>
+<Rack>Musik</Rack>
+</Location>
+<Interpret>Verschiedene</Interpret>
+<Tracks>21</Tracks>
+</CD>
+<Audiobook>
+<Title>Der grosse Entwurf</Title>
+<Signatur>UNI123</Signatur>
+<Author>Stephen Hawking</Author>
+<Location>
+<Section>CDs</Section>
+<Rack>Audiobuecher</Rack>
+</Location>
+<Interpret>Leonard Mlodinow</Interpret>
+<Tracks>15</Tracks>
+<Pages>560</Pages>
+<countCDs>3</countCDs>
+</Audiobook>
+</Library>
+<Customer>
+<Name>Marion Schulz</Name>
+<Address>
+<Street>Buchallee</Street>
+<HouseNr>23</HouseNr>
+<Zipcode>13315</Zipcode>
+<City>Berlin</City>
+</Address>
+<CustomerNr>S317</CustomerNr>
+<Birthday>
+<Date>
+<Day>25</Day>
+<Month>3</Month>
+<Year>1975</Year>
+</Date>
+</Birthday>
+</Customer>
+<Customer>
+<CustomerNr>M179</CustomerNr>
+<Name>Stefan Meier</Name>
+<Address>
+<City>Berlin</City>
+<Zipcode>10815</Zipcode>
+<HouseNr>41</HouseNr>
+<Street>Berliner Str.</Street>
+</Address>
+<Birthday>
+<Date>
+<Day>7</Day>
+<Month>7</Month>
+<Year>1977</Year>
+</Date>
+</Birthday>
+</Customer>
+<Loan>
+<Signature>KC17</Signature>
+<CustomerNr>M179</CustomerNr>
+<LoanDate>
+<Date>
+<Day>4</Day>
+<Month>12</Month>
+<Year>2015</Year>
+</Date>
+</LoanDate>
+<LoanDays>21</LoanDays>
+</Loan>
+<Loan>
+<Signature>WW175</Signature>
+<CustomerNr>M179</CustomerNr>
+<LoanDate>
+<Date>
+<Day>4</Day>
+<Month>12</Month>
+<Year>2015</Year>
+</Date>
+</LoanDate>
+<LoanDays>14</LoanDays>
+</Loan>
+<Loan>
+<Signature>UNI123</Signature>
+<CustomerNr>S317</CustomerNr>
+<LoanDate>
+<Date>
+<Day>4</Day>
+<Month>12</Month>
+<Year>2015</Year>
+</Date>
+</LoanDate>
+<LoanDays>28</LoanDays>
+</Loan>
+</LibraryPool>
+

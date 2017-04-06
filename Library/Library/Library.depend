@@ -1,0 +1,795 @@
+# depslib dependency file v1.0
+1449752690 source:c:\users\lhc\desktop\library\library\main.cpp
+	<iostream>
+	"tlibrarypool.h"
+
+1449848483 ool.h"
+
+1449406086 source:c:\users\lhc\desktop\library\library\src\taddress.cpp
+	"TAddress.h"
+	"TTools.h"
+	<iomanip>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+
+1449848628 
+
+1449778492 source:c:\users\lhc\desktop\library\library\src\tbook.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TMedium.h"
+	"TDate.h"
+	"TBook.h"
+	"TTools.h"
+	<sstream>
+
+1449778525 source:c:\users\lhc\desktop\library\library\src\tcd.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TMedium.h"
+	"TDate.h"
+	"TCD.h"
+	"TTools.h"
+	<sstream>
+
+1449778854 source:c:\users\lhc\desktop\library\library\src\tcomic.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TBook.h"
+	"TMedium.h"
+	"TComic.h"
+	"TDate.h"
+	"TTools.h"
+	<sstream>
+
+1449762877 source:c:\users\lhc\desktop\library\library\src\tcustomer.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TCustomer.h"
+	"TPerson.h"
+	"TDate.h"
+	"TAddress.h"
+	"TTools.h"
+
+1449406086 source:c:\users\lhc\desktop\library\library\src\tdate.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<time.h>
+	<fstream>
+	<sstream>
+	"TDate.h"
+	"TTools.h"
+
+1449781112 source:c:\users\lhc\desktop\library\library\src\tdvd.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TMedium.h"
+	"TDVD.h"
+	"TTools.h"
+	"TTime.h"
+
+1449781063 source:c:\users\lhc\desktop\library\library\src\temployee.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TCustomer.h"
+	"TEmployee.h"
+	"TPerson.h"
+	"TDate.h"
+	"TAddress.h"
+	"TTools.h"
+
+1449773972 source:c:\users\lhc\desktop\library\library\src\tlibrary.cpp
+	"TAddress.h"
+	"TLibrary.h"
+	"TMedium.h"
+	"TAddress.h"
+	"TTools.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+
+1449406086 source:c:\users\lhc\desktop\library\library\src\tlibrarypool.cpp
+	"TLibraryPool.h"
+	"TLibrary.h"
+	"TPerson.h"
+	"TEmployee.h"
+	"TCustomer.h"
+	"TTools.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+
+1449406086 source:c:\users\lhc\desktop\library\library\src\tlocation.cpp
+	"TLocation.h"
+	"TTools.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<string>
+
+1449406086 source:c:\users\lhc\desktop\library\library\src\tmedium.cpp
+	"TMedium.h"
+	"TLocation.h"
+	"TPerson.h"
+	"TTools.h"
+	<string>
+	<sstream>
+	<iostream>
+	<vector>
+
+1449406086 source:c:\users\lhc\desktop\library\library\src\tperson.cpp
+	"TPerson.h"
+	"TDate.h"
+	"TAddress.h"
+	"TTools.h"
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+
+1449406086 source:c:\users\lhc\desktop\library\library\src\ttime.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<time.h>
+	"TTime.h"
+
+1449406086 c:\users\lhc\desktop\library\library\include\tlibrarypool.h
+	"TLibrary.h"
+	"TPerson.h"
+	"TCustomer.h"
+	"TEmployee.h"
+	<string>
+	<vector>
+
+1449406086 c:\users\lhc\desktop\library\library\include\tlibrary.h
+	"TMedium.h"
+	"TAddress.h"
+	<string>
+	<vector>
+
+1449406086 c:\users\lhc\desktop\library\library\include\tmedium.h
+	"TLocation.h"
+	<string>
+	<vector>
+
+1449406086 c:\users\lhc\desktop\library\library\include\tlocation.h
+	<string>
+
+1449406086 c:\users\lhc\desktop\library\library\include\taddress.h
+	<string>
+
+1449406086 c:\users\lhc\desktop\library\library\include\tperson.h
+	"TAddress.h"
+	"TDate.h"
+	<string>
+
+1449406086 c:\users\lhc\desktop\library\library\include\tdate.h
+	<fstream>
+
+1449761965 c:\users\lhc\desktop\library\library\include\tcustomer.h
+	<string>
+	"TPerson.h"
+	<vector>
+
+1449762103 c:\users\lhc\desktop\library\library\include\temployee.h
+	<string>
+	"TPerson.h"
+	"TCustomer.h"
+
+1449848916 .h"
+
+1449406086 c:\users\lhc\desktop\library\library\include\ttools.h
+
+1449777094 source:c:\users\lhc\desktop\library\library\src\taudiobook.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TBook.h"
+	"TCD.h"
+	"TMedium.h"
+	"TTools.h"
+	"TAudiobook.h"
+	<string.h>
+	<stdlib.h>
+	<sstream>
+
+1449762340 c:\users\lhc\desktop\library\library\include\tbook.h
+	<string>
+	"TMedium.h"
+
+1449848535 "
+
+1449761911 c:\users\lhc\desktop\library\library\include\tcd.h
+	"TMedium.h"
+	<string>
+
+1449764198 c:\users\lhc\desktop\library\library\include\taudiobook.h
+	"TBook.h"
+	"TCD.h"
+	"TMedium.h"
+
+1449778845 c:\users\lhc\desktop\library\library\include\tcomic.h
+	"TBook.h"
+	"TMedium.h"
+	<string>
+
+1449778880 c:\users\lhc\desktop\library\library\include\tdvd.h
+	"TMedium.h"
+	<string>
+	"TTime.h"
+
+1449406086 c:\users\lhc\desktop\library\library\include\ttime.h
+
+1449848483 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\main.cpp
+	<iostream>
+	"TLibraryPool.h"
+
+1449406086 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tlibrarypool.h
+	"TLibrary.h"
+	"TPerson.h"
+	"TCustomer.h"
+	"TEmployee.h"
+	<string>
+	<vector>
+
+1449406086 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tlibrary.h
+	"TMedium.h"
+	"TAddress.h"
+	<string>
+	<vector>
+
+1449406086 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tmedium.h
+	"TLocation.h"
+	<string>
+	<vector>
+
+1449406086 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tlocation.h
+	<string>
+
+1449406086 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\taddress.h
+	<string>
+
+1449406086 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tperson.h
+	"TAddress.h"
+	"TDate.h"
+	<string>
+
+1449406086 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tdate.h
+	<fstream>
+
+1449848561 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tcustomer.h
+	<string>
+	"TPerson.h"
+	<vector>
+
+1449848916 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\temployee.h
+	<string>
+	"TPerson.h"
+	"TCustomer.h"
+
+1449406086 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\taddress.cpp
+	"TAddress.h"
+	"TTools.h"
+	<iomanip>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+
+1449406086 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\ttools.h
+
+1449848588 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\taudiobook.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TBook.h"
+	"TCD.h"
+	"TMedium.h"
+	"TTools.h"
+	"TAudiobook.h"
+	<string.h>
+	<stdlib.h>
+	<sstream>
+
+1449848541 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tbook.h
+	<string>
+	"TMedium.h"
+
+1449848546 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tcd.h
+	"TMedium.h"
+	<string>
+
+1449848535 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\taudiobook.h
+	"TBook.h"
+	"TCD.h"
+	"TMedium.h"
+
+1449848594 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tbook.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TMedium.h"
+	"TDate.h"
+	"TBook.h"
+	"TTools.h"
+	<sstream>
+
+1449848659 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tcd.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TMedium.h"
+	"TDate.h"
+	"TCD.h"
+	"TTools.h"
+	<sstream>
+
+1449848607 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tcomic.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TBook.h"
+	"TMedium.h"
+	"TComic.h"
+	"TDate.h"
+	"TTools.h"
+	<sstream>
+
+1449848552 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tcomic.h
+	"TBook.h"
+	"TMedium.h"
+	<string>
+
+1449848622 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tcustomer.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TCustomer.h"
+	"TPerson.h"
+	"TDate.h"
+	"TAddress.h"
+	"TTools.h"
+
+1449406086 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tdate.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<time.h>
+	<fstream>
+	<sstream>
+	"TDate.h"
+	"TTools.h"
+
+1449848615 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tdvd.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TMedium.h"
+	"TDVD.h"
+	"TTools.h"
+	"TTime.h"
+
+1449848567 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\tdvd.h
+	"TMedium.h"
+	<string>
+	"TTime.h"
+
+1449406086 \\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\include\ttime.h
+
+1449848628 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\temployee.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TCustomer.h"
+	"TEmployee.h"
+	"TPerson.h"
+	"TDate.h"
+	"TAddress.h"
+	"TTools.h"
+
+1449773972 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tlibrary.cpp
+	"TAddress.h"
+	"TLibrary.h"
+	"TMedium.h"
+	"TAddress.h"
+	"TTools.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+
+1449848331 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tlibrarypool.cpp
+	"TLibraryPool.h"
+	"TLibrary.h"
+	"TPerson.h"
+	"TEmployee.h"
+	"TCustomer.h"
+	"TTools.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+
+1449406086 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tlocation.cpp
+	"TLocation.h"
+	"TTools.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<string>
+
+1449772378 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tmedium.cpp
+	"TMedium.h"
+	"TLocation.h"
+	"TPerson.h"
+	"TTools.h"
+	<string>
+	<sstream>
+	<iostream>
+	<vector>
+
+1449406086 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\tperson.cpp
+	"TPerson.h"
+	"TDate.h"
+	"TAddress.h"
+	"TTools.h"
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+
+1449406086 source:\\fileshares.lis.beuth-hochschule.de\userfile$\lisbeuth\s797878\desktop\library\library\library\src\ttime.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<time.h>
+	"TTime.h"
+
+1453395008 source:/home/alex/cpp/Library/Library/main.cpp
+	<iostream>
+	"TLibraryPool.h"
+	<iostream>
+	"TLibraryPool.h"
+
+1453403186 /home/alex/cpp/Library/Library/include/TLibraryPool.h
+	"TLibrary.h"
+	"TCustomer.h"
+	"TMedium.h"
+	"TEmployee.h"
+	"TLoan.h"
+	<string>
+	<vector>
+	<iostream>
+
+1453395008 /home/alex/cpp/Library/Library/include/TLibrary.h
+	"TMedium.h"
+	"TAddress.h"
+	"TLoan.h"
+	<string>
+	<vector>
+	"tlist.h"
+
+1453395008 /home/alex/cpp/Library/Library/include/TMedium.h
+	"TLocation.h"
+	<string>
+	<vector>
+	<iostream>
+
+1453395008 /home/alex/cpp/Library/Library/include/TLocation.h
+	<string>
+
+1453395008 /home/alex/cpp/Library/Library/include/TAddress.h
+	<string>
+
+1453395008 /home/alex/cpp/Library/Library/include/TPerson.h
+	"TAddress.h"
+	"TDate.h"
+	<string>
+
+1453397651 /home/alex/cpp/Library/Library/include/TDate.h
+	<fstream>
+	<ostream>
+
+1453481734 /home/alex/cpp/Library/Library/include/TCustomer.h
+	<string>
+	"TPerson.h"
+	"TLoan.h"
+	<vector>
+	<iostream>
+
+1453395008 /home/alex/cpp/Library/Library/include/TEmployee.h
+	<string>
+	"TPerson.h"
+	"TCustomer.h"
+
+1453395008 source:/home/alex/cpp/Library/Library/src/TAddress.cpp
+	"TAddress.h"
+	"TTools.h"
+	<iomanip>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+
+1453395008 /home/alex/cpp/Library/Library/include/TTools.h
+
+1453395008 source:/home/alex/cpp/Library/Library/src/TAudiobook.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TBook.h"
+	"TCD.h"
+	"TMedium.h"
+	"TTools.h"
+	"TAudiobook.h"
+	<string.h>
+	<stdlib.h>
+	<sstream>
+
+1453395008 /home/alex/cpp/Library/Library/include/TBook.h
+	<string>
+	"TMedium.h"
+	<iostream>
+
+1453395008 /home/alex/cpp/Library/Library/include/TCD.h
+	"TMedium.h"
+	<string>
+	<iostream>
+
+1453395008 /home/alex/cpp/Library/Library/include/TAudiobook.h
+	"TBook.h"
+	"TCD.h"
+	"TMedium.h"
+	<iostream>
+
+1453395349 source:/home/alex/cpp/Library/Library/src/TCD.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TMedium.h"
+	"TDate.h"
+	"TCD.h"
+	"TTools.h"
+	<sstream>
+	<stdlib.h>
+
+1453395008 source:/home/alex/cpp/Library/Library/src/TComic.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TBook.h"
+	"TMedium.h"
+	"TComic.h"
+	"TDate.h"
+	"TTools.h"
+	<sstream>
+
+1453395008 /home/alex/cpp/Library/Library/include/TComic.h
+	"TBook.h"
+	"TMedium.h"
+	<string>
+	<iostream>
+
+1453481724 source:/home/alex/cpp/Library/Library/src/TCustomer.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TCustomer.h"
+	"TPerson.h"
+	"TDate.h"
+	"TAddress.h"
+	"TCustomer.h"
+	"TTools.h"
+
+1453397326 source:/home/alex/cpp/Library/Library/src/TDate.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<time.h>
+	<fstream>
+	<sstream>
+	"TDate.h"
+	"TTools.h"
+
+1453395008 source:/home/alex/cpp/Library/Library/src/TDVD.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TMedium.h"
+	"TDVD.h"
+	"TTools.h"
+	"TTime.h"
+
+1453395008 /home/alex/cpp/Library/Library/include/TDVD.h
+	<iostream>
+	<string>
+	"TTime.h"
+	"TMedium.h"
+
+1453395008 /home/alex/cpp/Library/Library/include/TTime.h
+	<string>
+
+1453395008 source:/home/alex/cpp/Library/Library/src/TEmployee.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TCustomer.h"
+	"TEmployee.h"
+	"TPerson.h"
+	"TDate.h"
+	"TAddress.h"
+	"TTools.h"
+
+1453395008 source:/home/alex/cpp/Library/Library/src/TLibrary.cpp
+	"TAddress.h"
+	"TLibrary.h"
+	"TMedium.h"
+	"TAddress.h"
+	"TBook.h"
+	"TComic.h"
+	"TDVD.h"
+	"TCD.h"
+	"TAudiobook.h"
+	"TTools.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+
+1453481745 source:/home/alex/cpp/Library/Library/src/TLibraryPool.cpp
+	"TLibraryPool.h"
+	"TLibrary.h"
+	"TPerson.h"
+	"TEmployee.h"
+	"TMedium.h"
+	"TCustomer.h"
+	"TTools.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"TLoan.h"
+
+1453395008 source:/home/alex/cpp/Library/Library/src/TLocation.cpp
+	"TLocation.h"
+	"TTools.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<string>
+
+1453397155 source:/home/alex/cpp/Library/Library/src/TMedium.cpp
+	"TMedium.h"
+	"TLocation.h"
+	"TPerson.h"
+	"TTools.h"
+	"TLibrary.h"
+	<stdlib.h>
+	<string>
+	<sstream>
+	<iostream>
+	<vector>
+
+1453398855 source:/home/alex/cpp/Library/Library/src/TPerson.cpp
+	"TPerson.h"
+	"TDate.h"
+	"TAddress.h"
+	"TTools.h"
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+
+1453395008 source:/home/alex/cpp/Library/Library/src/TTime.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<fstream>
+	<sstream>
+	<time.h>
+	"TTime.h"
+	"TTools.h"
+
+1453395987 source:/home/alex/cpp/Library/Library/src/TBook.cpp
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	"TMedium.h"
+	"TDate.h"
+	"TBook.h"
+	"TTools.h"
+	<sstream>
+
+1452079989 /home/alex/cpp/Library/Library/TLoan.h
+	"TMedium.h"
+	"TPerson.h"
+	"TDate.h"
+
+1453395008 /home/alex/cpp/Library/Library/include/TLoan.h
+	"TPerson.h"
+	"TDate.h"
+	"TMedium.h"
+	<iostream>
+
+1453397795 source:/home/alex/cpp/Library/Library/src/TLoan.cpp
+	"TLoan.h"
+	"TDate.h"
+	"TLibraryPool.h"
+	"TLibrary.h"
+	"TPerson.h"
+	"TEmployee.h"
+	"TMedium.h"
+	"TCustomer.h"
+	"TTools.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+
+1453395008 /home/alex/cpp/Library/Library/include/tlist.h
+	<cstddef>
+	<cassert>
+
+1453395008 source:/home/alex/cpp/Library/Library/src/tlist.cpp
+
